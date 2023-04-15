@@ -52,12 +52,12 @@ budget
 deficit
 retail
 voucher
-coupon،
+coupon
 counterfeit
 money
 public
 money
-taxpayers’
+taxpayers
 money
 debt
 interest-free
@@ -187,7 +187,7 @@ education
 guidelines
 post-secondary
 supervisor
-bachelor's
+bachelor
 degree
 compound
 vocabulary
@@ -202,7 +202,7 @@ students
 schedule
 school
 reunion
-registrar’s
+registrar
 office
 stationery
 catalog
@@ -284,7 +284,7 @@ nuts
 egg
 yolk
 liver
-medicine،
+medicine
 treatment
 remedy
 nursing
@@ -379,7 +379,7 @@ fossil
 fuels
 firewood
 drought
-contaminated.
+contaminated
 birds
 prey
 seabirds
@@ -958,7 +958,7 @@ wool
 leather
 bone
 paper
-lumber/wood
+lumber
 glue
 composite
 fiberglass
@@ -982,7 +982,7 @@ teacher
 vacancy
 professor
 specialist
-psychologist،
+psychologist
 volunteer
 freelance
 secretary
