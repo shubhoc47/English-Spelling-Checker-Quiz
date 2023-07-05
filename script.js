@@ -1,5 +1,5 @@
 const xhr = new XMLHttpRequest();
-xhr.open("GET", "words.txt", true);
+xhr.open("GET", "words1.txt", true);
 xhr.onreadystatechange = function() {
     if (xhr.readyState === 4 && xhr.status === 200) {
         const words = xhr.responseText.split("\n"); // read words from txt file
